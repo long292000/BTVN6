@@ -1,0 +1,50 @@
+p{
+    color: red;
+}
+#long{
+    color: green;
+}
+div{
+    color: green;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.longlong{
+    display: inline;
+    border: 3px solid red;
+    border-radius: 12px;
+}
+#loibaihat{
+    font-size: 30px;
+    border: 3px solid red;
+    padding: 45px 45px 45px 45px;
+}
+#longlonglong{
+    display: inline;
+    border: 3px solid green;
+    margin-left: 40px;
+    margin-top: 50px;
+    margin-bottom: 60px;
+}
+/* div{
+    background: red;
+    display: inline;
+  } */
+
+
+  /* #span1{
+    background: red;
+  }
+  #span2{
+    background:yellow;
+    width: 500px;
+    display: inline-block;
+  } */
+
+  /* span{
+    background: red;
+    display: block;
+  }
+  div{
+    background: blue;
+  } */
